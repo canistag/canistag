@@ -1,5 +1,5 @@
 # Welcome to CANISTAG Coding!
-I am a new grad dev looking to break into entry level roles in the Texas tech scene. 
+finishing an AAS in Computer Programming, looking to break into entry-level Texas tech roles. open to relocation in Colorado, Washington, or Oregon. 
 
 My Tech Stack Includes:
 - 🖥️ Java, HTML/CSS, JavaScript, Pico

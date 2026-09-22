@@ -1,8 +1,8 @@
-# Hi, I'm Grayson!
-- 🖥️ Java, HTML/CSS, JavaScript
+# Welcome to CANISTAG Coding
+- 🖥️ Java, HTML/CSS, JavaScript, Pico
 - 📝 MySQL, SQL Server, SQLite3
-- 🐍 Python, Seaborn, Pandas, JupyterNotebook
+- 🐍 Python, Flask, Pandas, JupyterNotebook
 - 🔭 Working on: TTRPG random roller, wolf-livestock conflict dashboard
-- 🌱 Learning: Pico, Git, Flask; future plans: React, AWS, QGIS
+- 🌱 Learning: CompTIA Network+
 - 🎯 Aiming for: entry-level dev role → San Antonio tech scene -> Denver tech scene
-- 🐺 Interested in: conservation technology, Spotify data, wolf reintroduction tracking
+- 🐺 Interested in: conservation technology, health tech, Spotify data, wildlife biology stats + tech

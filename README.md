@@ -1,12 +1,11 @@
 # Welcome to CANISTAG Coding!
 finishing an AAS in Computer Programming, looking to break into entry-level Texas tech roles. open to relocation in Colorado, Washington, or Oregon. 
 
-My Tech Stack Includes:
-- 🖥️ Java, HTML/CSS, JavaScript, Pico
-- 📝 MySQL, SQL Server, SQLite3
-- 🐍 Python, Flask, Pandas, JupyterNotebook
+# Tech Stack
 
-Current Projects:
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" width="100" height="100"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter" width="100" height="100"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" width="100" height="100"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" width="100" height="100"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="100" height="100"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="100" height="100"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" width="100" height="100"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" width="100" height="100"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlalchemy.png" alt="SQLAlchemy" width="100" height="100"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" width="100" height="100"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" width="100" height="100"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="SQL Server" width="100" height="100">
+
+# Current Projects
 - 🔭 Working on: CompTIA Network+
 - 🌱 Learning: CompTIA Network+
 - 🐺 Interested in: conservation technology, health tech, Spotify data, wildlife biology stats + tech

@@ -7,6 +7,6 @@ My Tech Stack Includes:
 - 🐍 Python, Flask, Pandas, JupyterNotebook
 
 Current Projects:
-- 🔭 Working on: TTRPG random roller, wolf-livestock conflict dashboard
+- 🔭 Working on: CompTIA Network+
 - 🌱 Learning: CompTIA Network+
 - 🐺 Interested in: conservation technology, health tech, Spotify data, wildlife biology stats + tech

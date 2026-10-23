@@ -1,5 +1,5 @@
 # Welcome to CANISTAG Coding!
-finishing an AAS in Computer Programming, looking to break into entry-level Texas tech roles. open to relocation in Colorado, Washington, or Oregon. 
+finishing an AAS in Computer Programming, looking to break into entry-level Texas tech roles. open to relocation in Colorado, Pennsylvania, or Washington. 
 
 # Tech Stack
 

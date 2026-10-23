@@ -1,5 +1,5 @@
 # Welcome to CANISTAG Coding!
-finishing an AAS in Computer Programming, looking to break into entry-level Texas tech roles. open to relocation in Colorado, Pennsylvania, or Washington. 
+finishing an AAS in Computer Programming, looking to break into entry-level Texas data roles. open to relocation in Colorado, Pennsylvania, or Washington. 
 
 # Tech Stack
 
@@ -8,4 +8,8 @@ finishing an AAS in Computer Programming, looking to break into entry-level Texa
 # Current Projects
 - 🔭 Working on: Lakas (NBA Stat Analysis), Chiclets (NHL Stat Analysis), Draca (Book Recommender)
 - 🌱 Learning: CompTIA Network+
-- 🐺 Interested in: conservation technology, health tech, Spotify data, wildlife biology stats + tech
+
+# Interests
+- Conservation/Wildlife Biology Statistics
+- Media Recommendation Systems (music, games, books, movies)
+- Sports Statistics (basketball, hockey)

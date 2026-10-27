@@ -1,5 +1,5 @@
 # Welcome to CANISTAG Coding!
-finishing an AAS in Computer Programming, looking to break into entry-level Texas data roles. open to relocation in Colorado, Pennsylvania, or Washington. 
+looking to break into entry-level Texas data roles. open to relocation in Colorado, Pittsburgh, Roanoke, or Washington. 
 
 # Tech Stack
 

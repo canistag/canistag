@@ -1,4 +1,4 @@
-# Welcome to CANISTAG Coding!
+# CANISTAG Coding!
 looking to break into entry-level Texas data roles. open to relocation in Colorado, Pittsburgh, Roanoke, or Washington. 
 
 # Tech Stack
